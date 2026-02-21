@@ -1,0 +1,1 @@
+# lab6_cp_all
